@@ -1,2 +1,2 @@
 # pokemon
-Hive and HBase testing
+This is currently an empty repo! Yay!!!
